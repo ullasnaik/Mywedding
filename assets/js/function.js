@@ -321,11 +321,11 @@ $(document).ready(function () {
 	//================================================================================
 	var simpletimer = $('#simple_timer');
      simpletimer.syotimer({
-        year: 2018,
-        month: 5,
-        day: 9,
-        hour: 20,
-        minute: 30
+        year: 2017,
+        month: 11,
+        day: 26,
+        hour: 12,
+        minute: 35
      });
 
 	// 04.3 Gallery Masonry
