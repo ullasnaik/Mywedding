@@ -446,9 +446,17 @@ section.hero .content span {
 	bottom: 30px;
 	width: 100%;
 }
-.owl-carousel.owl-full-width .owl-item, .owl-carousel.owl-full-width .owl-stage, .owl-carousel.owl-full-width .owl-stage-outer, .owl-carousel.owl-full-width .slide {
+.owl-carousel.owl-full-width .owl-item, .owl-carousel.owl-full-width .owl-stage, .owl-carousel.owl-full-width .owl-stage-outer {
 	width: 100%;
 	height: 100%;
+}
+.owl-carousel.owl-full-width .slide {
+	height: 100%;
+    
+    background-size: cover;
+    -webkit-background-size: cover; 
+    -moz-background-size: cover;    
+    -o-background-size: cover;  
 }
 .owl-carousel.owl-full-width .slide img {
 	display: none;
