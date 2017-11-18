@@ -978,7 +978,8 @@ color: #555;
 }
 .bottom .content .dta h4 {
 	font-size: 27px;
-	font-family: 'Pacifico', cursive;
+	font-family: 'Playfair Display', serif;
+	margin-top: 0;
 }
 .bottom .content .dta h2 {
 	font-size: 75px;
